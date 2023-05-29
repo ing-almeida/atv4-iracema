@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107949056632",
+    "project_id": "mobdev01-9468a",
+    "storage_bucket": "mobdev01-9468a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107949056632:android:2b83f8b717d4fcb7a8838d",
+        "android_client_info": {
+          "package_name": "com.example.ativ4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgoUlMc3C-FQPPGkQvmQ5zqY9uVyy-9J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
